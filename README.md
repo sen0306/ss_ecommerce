@@ -1,16 +1,6 @@
 # E-Commerce Website
+This project was a paired assignment in university. I co-developed the interface using **HTML, CSS, and JavaScript.** The website features product browsing, search and sort filter, and checkout handling flow.
 
-<img width="1917" height="913" alt="image" src="https://github.com/user-attachments/assets/f5eb7c5a-a0da-44af-9bd3-c81b936d0762" /> <br>
-Log In Page <br>
+## Tech Stack
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 
-<img width="1917" height="916" alt="image" src="https://github.com/user-attachments/assets/4d094f57-18c0-42c3-b2ce-fab0f2571b7d" /> <br>
-Home Page <br>
-
-<img width="1917" height="911" alt="image" src="https://github.com/user-attachments/assets/c321b839-192d-4e7f-91eb-82184e5e7bcc" /> <br>
-Product View <br>
-
-<img width="1900" height="916" alt="image" src="https://github.com/user-attachments/assets/2abd6660-d953-4ea9-a274-a2c030d7bc8d" /> <br>
-Shopping Cart <br>
-
-<img width="1917" height="917" alt="image" src="https://github.com/user-attachments/assets/369fae16-8895-4c16-ba0b-bf92f9797ed1" /> <br>
-Checkout Page <br>
