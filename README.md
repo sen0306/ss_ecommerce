@@ -1,4 +1,4 @@
-# E-Commerce Website
+### E-Commerce Website
 This project was a paired assignment in university. I co-developed the interface using **HTML, CSS, and JavaScript.** The website features product browsing, sort filter, and checkout handling flow.
 
 ## Tech Stack
